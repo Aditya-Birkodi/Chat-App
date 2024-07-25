@@ -1,0 +1,2 @@
+KnRI6MjkoyyGPZVL
+mongodb+srv://birkodiaditya:KnRI6MjkoyyGPZVL@cluster0.ecjfx1o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
